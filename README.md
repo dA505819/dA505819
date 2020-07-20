@@ -4,6 +4,7 @@
 	<a href="https://github.com/dA505819"><img src="https://img.shields.io/github/followers/dA505819.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/iam_dAggarwal"><img src="https://img.shields.io/twitter/follow/iam_dAggarwal?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/dhruv-a-305713173"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://medium.com/@dhruvaggarwal6"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 </a>
 </p
 
