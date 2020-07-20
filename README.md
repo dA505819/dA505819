@@ -1,4 +1,4 @@
-<h1>Hi Explorer, I am <a href="https://da505819.github.io/">Dhruv</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi Explorer, I am <a href="https://da505819.github.io/">Dhruv!</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dhruv's Github Stats](https://github-readme-stats.vercel.app/api?username=dA505819&show_icons=true)
+![Dhruv's Github Stats](https://github-readme-stats.vercel.app/api?username=dA505819&hide=["stars"]&show_icons=true)
 
 
