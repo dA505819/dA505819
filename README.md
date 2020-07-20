@@ -1,8 +1,8 @@
 <h1>Hi Explorer, I am <a href="https://da505819.github.io/">Dhruv</a>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-	<a href="https://github.com/dA505819"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/@iam_dAggarwal"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/dA505819"><img src="https://img.shields.io/github/followers/dA505819.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/iam_dAggarwal"><img src="https://img.shields.io/twitter/follow/iam_dAggarwal?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/dhruv-a-305713173"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </a>
 </p
