@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hi Explorer, I am <a href="https://da505819.github.io/">Dhruv</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+
 
 <!--
 **dA505819/dA505819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dhruv's Github Stats](https://github-readme-stats.vercel.app/api?username=dA505819&show_icons=true)
+
+
