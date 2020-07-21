@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 ![Dhruv's Github Stats](https://github-readme-stats.vercel.app/api?username=dA505819&hide=["stars"]&show_icons=true)
-</p>
+
 
