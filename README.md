@@ -5,6 +5,7 @@
 	<a href="https://twitter.com/iam_dAggarwal"><img src="https://img.shields.io/twitter/follow/iam_dAggarwal?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/dhruv-a-305713173"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://medium.com/@dhruvaggarwal6"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=social&logo=medium" alt="Medium"></a> 
+	<a href="https://auth.geeksforgeeks.org/user/dhruv5819/articles"><img src="https://img.shields.io/endpoint?color=green&label=GeeksforGeeks&logo=geeksforgeeks&logoColor=darkgreen&style=social&url=Articles" alt = "GeeksforGeeks"></a>
 </p
 
 <!--
