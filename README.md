@@ -6,6 +6,7 @@
 	<a href="https://www.linkedin.com/in/dhruv-a-305713173"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://medium.com/@dhruvaggarwal6"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=social&logo=medium" alt="Medium"></a> 
 	<a href="https://auth.geeksforgeeks.org/user/dhruv5819/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-Articles-green?style=social&logo=geeksforgeeks" alt = "GeeksforGeeks"></a>
+	<a href="https://public.tableau.com/profile/dhruv.aggarwal8198#!/"><img src="https://img.shields.io/badge/Tableau-%20-White?style=social&logo=tableau" alt = "Tableau"></a>
 </p
 
 <!--
