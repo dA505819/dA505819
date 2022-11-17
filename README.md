@@ -8,7 +8,9 @@
 	<a href="https://auth.geeksforgeeks.org/user/dhruv5819/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-Articles-green?style=social&logo=geeksforgeeks" alt = "GeeksforGeeks"></a>
 	<a href="https://public.tableau.com/profile/dhruv.aggarwal8198#!/"><img src="https://img.shields.io/badge/Tableau-%20-White?style=social&logo=tableau" alt = "Tableau"></a>
 	<a href="https://www.kaggle.com/dhruvagg"><img src="https://img.shields.io/badge/Kaggle-%20-blue?style=social&logo=kaggle" alt = "Kaggle"></a>
-</p
+</p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dA505819.dA505819)
 
 <!--
 - 🔭 I’m currently working on ...
